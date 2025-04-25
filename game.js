@@ -31,7 +31,7 @@ let ghost = {
 };
 
 // Завантаження зображення привида
-ghost.image.src = "images/fantome-dessin-115505320747bmn5i7pcd-removebg-preview.png";
+ghost.image.src = "fantome-dessin-115505320747bmn5i7pcd-removebg-preview.png";
 
 // Функція для малювання привида
 function drawGhost() {
@@ -42,7 +42,7 @@ function drawGhost() {
 // Хмарки
 let clouds = [];
 let cloudImage = new Image();
-cloudImage.src = "images/clouds-drawing-png-115523323527a6ovsmmut-removebg-preview.png";
+cloudImage.src = "clouds-drawing-png-115523323527a6ovsmmut-removebg-preview.png";
 
 
 function spawnCloud() {

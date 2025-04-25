@@ -41,7 +41,7 @@ function drawGhost() {
 
 // Хмарки
 let clouds = [];
-let cloudImage = new Image();
+let cloudImage = new Image(); 
 cloud.Image.src = "clouds-drawing-png-115523323527a6ovsmmut-removebg-preview.png";
 
 

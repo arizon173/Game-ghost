@@ -42,7 +42,7 @@ function drawGhost() {
 // Хмарки
 let clouds = [];
 let cloudImage = new Image();
-cloudImage.src = "clouds-drawing-png-115523323527a6ovsmmut-removebg-preview.png";
+cloud.Image.src = "clouds-drawing-png-115523323527a6ovsmmut-removebg-preview.png";
 
 
 function spawnCloud() {
